@@ -8,6 +8,8 @@ Architekturvisualisierung in einer interaktiven VR-Umgebung mit Bauwerken von Bj
 
 ![office3](./models/img/office_wip3.jpg)
 
+![office4](./models/img/office_wip4.jpg)
+
 19.10.17 - detailed Eleventh wip1:
 ![preview_eleventh2](./models/img/eleventh_detailed_wip1.png)
 
