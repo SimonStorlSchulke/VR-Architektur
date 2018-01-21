@@ -42,8 +42,8 @@ namespace Valve.VR.InteractionSystem
 			if ( value != lastValue )
 			{
 				float blendValue = Util.RemapNumberClamped( value, 0f, 1f, 1f, 100f );
-				skinnedMesh.SetBlendShapeWeight( 0, blendValue );
-			}
+				skinnedMesh.SetBlendShapeWeight( 2, blendValue );
+            }
 
 			lastValue = value;
 		}
