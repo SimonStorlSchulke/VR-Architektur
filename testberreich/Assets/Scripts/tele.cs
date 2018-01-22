@@ -7,10 +7,14 @@ using UnityEngine.SceneManagement;
 public class tele : MonoBehaviour {
 
     [SerializeField]private string index;
+    void Awake() { }
 
-    private void OnTriggerEnter(Collider other)
+
+
+
+    void Update()
     {
-           
+          
             SceneManager.LoadScene(index);
         
     }
